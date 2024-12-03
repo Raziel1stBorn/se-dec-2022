@@ -1,3 +1,6 @@
+# Who is here is 2024?
+I am Martin, I come in peace :alien:   
+
 # Welcome to the 2023 Cohort of Software Engineering
 My name is Ashley and I am just back after a 3 month study break. Hi everyone :)
 
